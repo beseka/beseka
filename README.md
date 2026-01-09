@@ -1,6 +1,6 @@
 ## Hi, I'm Barış 👋
 
-🎯 Sabancı | Computer Science and Engineering 
+🎯 Sabancı | Computer Science and Engineering  
 📊 Building data-driven tools and decision systems  
 🚀 Interested in DSA, Business Analytics, Product, and ML
 

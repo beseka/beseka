@@ -18,15 +18,14 @@
 <p align="center">
   <img 
     src="https://awesome-github-stats.azurewebsites.net/user-stats/beseka"
-    width="420"
-    height="200"
+    width="390"
   />
   <img 
     src="https://leetcard.jacoblin.cool/bsirhatk"
-    width="420"
-    height="200"
+    width="390"
   />
 </p>
+
 
 ---
 ### 📫 Contact

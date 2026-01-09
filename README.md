@@ -14,14 +14,11 @@
 - **Tools:** Git, Power Apps
 
 ---
-## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beseka&show_icons=true" height="165"/>
-  <img src="https://leetcard.jacoblin.cool/bsirhatk" height="165"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/beseka" height="200" />
+  <img src="https://leetcard.jacoblin.cool/bsirhatk" height="200"/>
 </p>
-
-
 
 ---
 ### 📫 Contact

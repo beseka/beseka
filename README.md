@@ -14,8 +14,18 @@
 - **Tools:** Git, Power Apps
 
 ---
+## 📊 Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beseka&show_icons=true" height="165"/>
+  <img src="https://leetcard.jacoblin.cool/bsirhatk" height="165"/>
+</p>
+
+
+
+---
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/bar%C4%B1%C5%9F-serhat-kaplan-15416a230/
 - Portfolio: barisserhatkaplan.vercel.app
 - Mail: bsirhatk@gmail.com
+  

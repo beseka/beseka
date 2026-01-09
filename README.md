@@ -16,8 +16,16 @@
 ---
 
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/beseka" height="200" />
-  <img src="https://leetcard.jacoblin.cool/bsirhatk" height="200"/>
+  <img 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/beseka"
+    width="420"
+    height="200"
+  />
+  <img 
+    src="https://leetcard.jacoblin.cool/bsirhatk"
+    width="420"
+    height="200"
+  />
 </p>
 
 ---

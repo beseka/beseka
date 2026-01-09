@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Barış 👋
 
-<!--
-**beseka/beseka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Sabancı | Computer Science and Engineering 
+📊 Building data-driven tools and decision systems  
+🚀 Interested in DSA, Business Analytics, Product, and ML
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python, R, SQL
+- **Frontend:** React Native, TypeScripts
+- **Data:** Python Libraries mostly, Power BI, Power Apps
+- **ML:** Scikit-learn, Tensorflow, Hugging Face and libraries.
+- **Tools:** Git
+
+---
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/bar%C4%B1%C5%9F-serhat-kaplan-15416a230/
+- Portfolio: barisserhatkaplan.vercel.app

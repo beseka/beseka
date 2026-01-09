@@ -9,12 +9,13 @@
 ### 🛠 Tech Stack
 - **Languages:** Python, R, SQL
 - **Frontend:** React Native, TypeScripts
-- **Data:** Python Libraries mostly, Power BI, Power Apps
-- **ML:** Scikit-learn, Tensorflow, Hugging Face and libraries.
-- **Tools:** Git
+- **Data:** Python Libraries mostly, Excel, Power BI
+- **ML:** Scikit-learn, Tensorflow, Hugging Face and py libraries.
+- **Tools:** Git, Power Apps
 
 ---
 
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/bar%C4%B1%C5%9F-serhat-kaplan-15416a230/
 - Portfolio: barisserhatkaplan.vercel.app
+- Mail: bsirhatk@gmail.com
